@@ -1,0 +1,42 @@
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Bot Application.dll.config
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Bot Application.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Bot Application.pdb
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Autofac.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Chronic.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.Bot.Builder.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.Bot.Connector.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Newtonsoft.Json.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\System.Net.Http.Formatting.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\System.Web.Http.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\System.Web.Http.WebHost.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Autofac.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.Bot.Builder.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.Bot.Connector.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\Newtonsoft.Json.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\System.Net.Http.Formatting.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\System.Web.Http.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\System.Web.Http.WebHost.xml
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\obj\Debug\BotPromptDialog.csprojAssemblyReference.cache
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\obj\Debug\BotPromptDialog.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\obj\Debug\BotPromptDialog.csproj.CopyComplete
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\obj\Debug\Bot Application.dll
+C:\Users\Martin\Downloads\BotPromptDialog\BotPromptDialog\obj\Debug\Bot Application.pdb
